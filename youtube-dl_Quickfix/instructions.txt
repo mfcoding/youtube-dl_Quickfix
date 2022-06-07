@@ -11,7 +11,7 @@
  
 3. Download these files via this link:  https://www.upload-4ever.com/g68geol3v7mp
 
-4. Exract the downloaded file in a folder then open this folder, open the terminal and execute this command => bash ./install
+4. Extract content of the downloaded file in a folder then open this folder, open the terminal and execute this command => bash ./install
 
 5. To show youtube-dl's version Run this command => youtube-dl --version
 
