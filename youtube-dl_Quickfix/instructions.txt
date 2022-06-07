@@ -1,0 +1,20 @@
+** If you have an older version of youtube-dl which doesn't work well and you can't update it or you have installed youtube-dl from the official 
+   website "https://youtube-dl.org/" on your linux distro and you still can't run it, Here's a Quick fix ** 
+
+1. Remove the older version if it exits via this command => sudo apt remove youtube-dl 
+                                         or this command => cd /bin; sudo rm youtube-dl  
+
+2. Install youtube-dl from this website: http://ytdl-org.github.io/youtube-dl/download.html
+	
+   Now run youtube-dl if it works, you are done. 
+   but if doesn't run, continue the next steps.		 
+ 
+3. Download these files via this link:  https://www.upload-4ever.com/g68geol3v7mp
+
+4. Exract the downloaded file then open the downloaded file, open the terminal and execute this command => bash ./install
+
+5. To show youtube-dl's version Run this command => youtube-dl --version
+
+6. You can update youtube-dl via this command => youtube-dl -U 
+   
+   you don't have to youtube-dl as long as it works fine.
