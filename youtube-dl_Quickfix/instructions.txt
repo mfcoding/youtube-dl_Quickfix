@@ -17,4 +17,4 @@
 
 6. You can update youtube-dl via this command => youtube-dl -U 
    
-   you don't have to youtube-dl as long as it works fine.
+   you don't have to update youtube-dl as long as it works fine.
