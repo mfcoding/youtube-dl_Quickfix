@@ -7,7 +7,7 @@
 2. Install youtube-dl from this website: http://ytdl-org.github.io/youtube-dl/download.html
 	
    Now run youtube-dl if it works, you are done. 
-   but if doesn't run, continue the next steps.		 
+   but if doesn't run, continue with the next steps.		 
  
 3. Download these files via this link:  https://www.upload-4ever.com/g68geol3v7mp
 
