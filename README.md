@@ -1,2 +1,2 @@
-# youtube-dl_Quickfix.zip
+# youtube-dl Quick fix
 A Quick fix for youtube-dl on linux.
